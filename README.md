@@ -2,7 +2,10 @@
 
 **config/index.js:**
 
-`assetsPublicPath: '',`
+```
+assetsPublicPath: '',
+productionSourceMap: false,
+```
 
 </br>
 build for production with minification
@@ -19,4 +22,4 @@ git commit -m "commit message"
 git push origin gh-pages
 ```
 
-Demo: https://jjiimmzz.github.io/vue-musicApp/
+>Demo: https://jjiimmzz.github.io/vue-musicApp/
