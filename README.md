@@ -18,3 +18,5 @@ git commit -m "commit message"
 
 git push origin gh-pages
 ```
+
+Demo: https://jjiimmzz.github.io/vue-musicApp/
